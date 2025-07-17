@@ -219,7 +219,7 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
 
-- **YouTube**: [Subscribe to my channel for tutorials and insights](https://www.youtube.com/@adizz_vlogs)
+- **YouTube**: [Subscribe to my channel for tutorials and insights](https://www.youtube.com/@adizzvlogs-m3q)
 - **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/aditya_kukade_02/)
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/aditya-kukade-352250250/)
 
